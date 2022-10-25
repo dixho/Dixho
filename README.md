@@ -9,7 +9,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+<center>
 
 ### Frontend  
 <div align="center">  
@@ -45,7 +45,7 @@
 
 <br/>  
 
-
+</center>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Dixho" target="_blank">
