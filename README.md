@@ -67,10 +67,11 @@
 
 
 ## Github Stats  
+<center>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixho&hide_border=true&layout=compact" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dixho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+</center>
 <br/>  
 
 
